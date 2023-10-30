@@ -1,0 +1,687 @@
+*{
+    padding: 0;
+    margin: 0;
+    opacity: 30px;
+
+}
+body{
+    overflow-x: hidden;
+}
+.nav-bar{
+   background-color: rgb(47, 152, 238); 
+   width: 100%;
+   height: 60px;
+   
+   
+}
+.bar{
+    display: flex;
+    list-style: none;
+    margin-right: 200px;
+    margin-top: 20px;
+    gap: 30px;
+    position: absolute;
+    margin-left: 850px;
+}
+.bar a{
+    text-decoration: none;
+    color: white;
+    
+}
+.bar :hover{
+    background-color: rgb(94, 94, 211);
+    
+
+    
+    
+}
+.menu{
+    float: right;
+    width: 20px;
+    position: relative;
+    margin-right: 10px;
+    margin-top: 20px;
+    color: white;
+}
+.paragraph{
+ float: right;
+ margin-right: 280px;
+ margin-top: 120px;
+ position: relative;
+}
+.text{
+    margin-top: 10px;
+    position: relative;
+    margin-right: -50px;
+}
+.photo img{
+    width: 650px;
+    height: 700px;
+    margin-top: 20px;
+    margin-left: -30px;
+    position: absolute;
+}
+.phot img{
+    width: 350px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 120px;
+    position: absolute;
+}
+.true img{
+    width: 700px;
+    height: 800px;
+    float: right;
+    margin-top: 80px;
+    margin-left: 560px;
+    position: absolute;
+}
+.local img{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-top: 400px;
+    margin-left: 800px;
+    position: absolute;
+}
+.class button{
+    margin-left: 520px;
+    margin-top: 550px;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    color: white;
+    background-color: rgb(70, 91, 161);
+}
+.line hr{
+    width: 100%;
+    height: 2px;
+    margin-top: 750px;
+    position: absolute;
+    background-color: rgb(94, 94, 204);
+}
+.fashion img{
+    width: 250px;
+    height: 200px;
+    margin-top: 800px;
+    margin-left: 20px;
+}
+.arrow{
+    margin-left: 440px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    align-items: center;
+    
+}
+.btn{
+    margin-left: 460px;
+    position: absolute;
+    border-radius: 100px;
+    background-color: blue;
+    color: white; 
+}
+.lexin{
+    width: 2px;
+    height: 230px;
+    background-color: black;
+    margin-left: 500px;
+    margin-top: -210px; 
+}
+
+.wow img{
+    width: 250px;
+    height: 200px;
+    margin-top: 800px;
+    margin-left: 20px;
+}
+.arro{
+    margin-left: 270px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    align-items: center;
+    
+}
+.buton{
+    margin-left: 290px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: blue;
+    color: white; 
+}
+.lexi{
+    width: 2px;
+    height: 230px;
+    background-color: black;
+    margin-left: 330px;
+    margin-top: -210px; 
+}
+.container{
+    margin-left: 530px;
+    margin-top: -1025px;
+    position: absolute;
+}
+.div img{
+    width: 250px;
+    height: 200px;
+    margin-left: 380px;
+    margin-top: -230px;
+    position: absolute;
+}
+.arr{
+    margin-left: 640px;
+    background-color: blue;
+    color: white;
+    margin-top: -20px;
+    border-radius: 100px;
+    position: absolute;
+}
+.butas{
+    margin-left: 660px;
+    background-color: blue;
+    color: white;
+    margin-top: -20px;
+    border-radius: 100px;
+    position: absolute;
+}
+.paragrap{
+    font-size: small;
+    margin-top: 20px;
+    margin-left: -510px;
+    gap: 10px;
+}
+/* Footer Start 1*/
+footer{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(91, 122, 223);
+    margin-top: 1100px;
+}
+.uplinks{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: white;
+    display: flex;
+    margin-left: 50px;
+    gap: 300px;
+}
+
+.uplinks h1{
+    margin-top: 30px;
+}
+.services p{
+    margin-top: 40px;
+    color: black;
+    
+}
+.quickLlinks p{
+    margin-top: 40px;
+    color: black;
+}
+.links{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+
+}
+.wiw hr{
+    width: 2px;
+    background-color: black;
+    height: 50vh;
+    margin-left: 380px;
+    position: absolute;
+    margin-top: -227px;
+}
+.wew hr{
+    width: 2px;
+    background-color: black;
+    height: 50vh;
+    margin-left: 860px;
+    position: absolute;
+    margin-top: -227px;
+}
+/* Footer End 1*/
+
+*{
+    padding: 0;
+    margin: 0;
+    opacity: 30px;
+}
+.nav-link{
+   background-color: rgb(47, 152, 238); 
+   width: 100%;
+   height: 60px;
+   
+   
+}
+.link{
+    display: flex;
+    list-style: none;
+    margin-right: 200px;
+    margin-top: 20px;
+    gap: 30px;
+    position: absolute;
+    margin-left: 850px;
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    
+}
+.link :hover{
+    background-color: rgb(94, 94, 211);
+    
+
+    
+    
+}
+.men{
+    float: right;
+    width: 20px;
+    position: relative;
+    margin-right: 10px;
+    margin-top: 20px;
+    color: white;
+}
+.para p{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.image img{
+    width: 150px;
+    min-height: 170px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -201px;
+    position: relative;
+}
+.xline hr{
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    background-color: rgb(7, 7, 121);
+    margin-top: 64px;
+
+}
+.image2 img{
+    width: 150px;
+    min-height: 200px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 100px;
+    position: relative;
+}
+.par p{
+    margin-top: 130px;
+    position: relative;
+    margin-left: 650px;
+}
+.xlie hr{
+    background-color: #563ae2;
+    width: 100%;
+    position: absolute;
+    margin-top: 40px;
+    height: 2px;
+}
+.tex p{
+    float: left;
+    margin-top: 120px;
+    margin-left: -210px;
+    position: relative;
+    
+    
+}
+.imag img{
+    float: right;
+    width: 150px;
+    min-height: 200px;
+    margin-right: 250px;
+    margin-top: 70px;
+    position: relative;
+
+}
+/* start of footer 2 */
+.footerss{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(91, 122, 223);
+    margin-top: 350px;
+    position: absolute;
+}
+.follows{
+    margin-left: 30px;
+    color: white;
+    margin-top: 20px;
+    position: relative;
+  
+}
+.Quick{
+    margin-left: 400px;
+    margin-top: -90px;
+    text-decoration: none;
+    list-style: none;
+    gap: 20px;
+    position: absolute;
+}
+.Quick h1{
+    margin-top: -40px;
+
+}
+.lims{
+    margin-top: 30px;
+    margin-left: 40px;
+    list-style: none;
+    color: black;
+}
+.lims a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    gap: 20px;
+}
+.service{
+    margin-left: 400px;
+    margin-top: -140px;
+}
+.service p{
+    color: black;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 0 20px;
+}
+.wewe {
+    width: 2px;
+    background-color: black;
+    height: 47vh;
+    margin-left: -40px;
+    position: absolute;
+    margin-top: -156px;
+}
+.please {
+    width: 2px;
+    background-color: black;
+    height: 47vh;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -156px; 
+}
+/*end of footer 2*/
+
+*{
+    padding: 0;
+    margin: 0;
+    opacity: 30px;
+}
+.nav-cool{
+   background-color: rgb(47, 152, 238); 
+   width: 100%;
+   height: 60px;
+   
+   
+}
+.bit{
+    display: flex;
+    list-style: none;
+    margin-right: 200px;
+    margin-top: 20px;
+    gap: 30px;
+    position: absolute;
+    margin-left: 850px;
+}
+.bit a{
+    text-decoration: none;
+    color: white;
+    
+}
+.bit :hover{
+    background-color: rgb(94, 94, 211);
+    
+
+    
+    
+}
+.mun{
+    float: right;
+    width: 20px;
+    position: relative;
+    margin-right: 10px;
+    margin-top: 20px;
+    color: white;
+}
+.text1{
+    margin-top: 120px;
+    color:  rgb(47, 152, 238);
+    margin-left: 500px;
+    position: absolute;
+   
+}
+.card1{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 350px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(17, 16, 16) 7px 6px 4px -1px;
+}
+.card1{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 350px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(17, 16, 16) 7px 6px 4px -1px;
+}
+.card2{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 700px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(17, 16, 16) 7px 6px 4px -1px;
+}
+.card3{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 550px;
+    position: absolute;
+    margin-left: 350px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(17, 16, 16) 7px 6px 4px -1px;
+}
+.card4{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 550px;
+    position: absolute;
+    margin-left: 700px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(20, 20, 20) 7px 6px 4px -1px;
+}
+.text2{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 300px;
+}
+.image4{
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 340px;
+}
+.image5{
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 680px;
+}
+.image6{
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: 370px;
+}
+.image7{
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 703px;
+}
+.nile hr{
+    width: 100%;
+    height: 2px;
+    margin-top: 850px;
+    position: absolute;
+    background-color: rgb(94, 94, 204);
+}
+.word{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 560px;
+    color: rgb(94, 94, 211);
+
+}
+.word p{
+    margin-left: -250px;
+    color: black;
+    margin-top: 20px;
+}
+.card5{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 1000px;
+    position: absolute;
+    margin-left: 150px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(20, 20, 20) 7px 6px 4px -1px;
+}
+.card6{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 1000px;
+    position: absolute;
+    margin-left: 500px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(20, 20, 20) 7px 6px 4px -1px;
+}
+.card7{
+    background-color: #563ae2;
+    width: 200px;
+    height: 250px;
+    margin-top: 1000px;
+    position: absolute;
+    margin-left: 850px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: rgb(20, 20, 20) 7px 6px 4px -1px;
+}
+.image8{
+    width: 100px;
+    height: 160px;
+    position: absolute;
+    margin-top: 1004px;
+    margin-left: 130px;
+}
+.image9 img{
+    width: 150px;
+    height: 230px;
+    position: absolute;
+    margin-top: 1004px;
+    margin-left: 520px;
+}
+.image10 img{
+    width: 150px;
+    height: 230px;
+    position: absolute;
+    margin-top: 1010px;
+    margin-left: 870px;
+}
+/* start of footer 3 */
+.footer{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(91, 122, 223);
+    margin-top: 1300px;
+    position: absolute;
+}
+.raya{
+    margin-left: 30px;
+    color: white;
+    margin-top: 30px;
+    position: relative;
+  
+}
+.Quick{
+    margin-left: 400px;
+    margin-top: -90px;
+    text-decoration: none;
+    list-style: none;
+    gap: 20px;
+    position: absolute;
+}
+.Quick h1{
+    margin-top: -30px;
+
+}
+.lims{
+    margin-top: 30px;
+    margin-left: 40px;
+    list-style: none;
+    color: black;
+}
+.lims a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    gap: 20px;
+}
+.service{
+    margin-left: 400px;
+    margin-top: -110px;
+    position: absolute;
+}
+.service p{
+    color: black;
+    margin-left: 20px;
+    margin-top: 40px;
+    position: relative;
+    gap: 40px;
+    
+}
+.jesus {
+    width: 2px;
+    background-color: black;
+    height: 47vh;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -125px;
+}
+.christ {
+    width: 2px;
+    background-color: black;
+    height: 47vh;
+    margin-left: -100px;
+    position: absolute;
+    margin-top: -125px; 
+}
+/*end of footer  3*/
+
+
+
+
+   
